@@ -32,9 +32,9 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/4" alt="Recent Article 4">
     
 ### Packages I created
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash521&repo=K8-cluster-setup-datafeedai)](https://github.com/Akash521/K8-cluster-setup-datafeedai) 
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash521&repo=K8-cluster-setup-datafeedai)](https://github.com/Akash521/K8-cluster-setup-datafeedai)  -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash521&repo=nginx-ngress-controller)](https://github.com/Akash521/nginx-ngress-controller)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash521&repo=terrraform-jenkins)](https://github.com/Akash521/terrraform-jenkins) 
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash521&repo=terrraform-jenkins)](https://github.com/Akash521/terrraform-jenkins)  -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash521&repo=Facial-recogniation-Perimeter-breach)](https://github.com/Akash521/Facial-recogniation-Perimeter-breach)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash521&repo=Rabbitmq)](https://github.com/khuyentran1401/Rabbitmq)
 
