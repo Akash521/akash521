@@ -13,10 +13,10 @@
 
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@boranaakash9) and [daily data science tips](https://mathdatasimplified.com/).
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@boranaakash9) and [ Technical Information](https://datafeedai.com/).
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/akashborana/)
-  - [![alt text][1.2]][1][Twitter](https://twitter.com/KhuyenTran16)
+<!--   - [![alt text][1.2]][1][Twitter](https://twitter.com/KhuyenTran16) -->
 - 📫 Learn more about me on:  
   - :bulb: [Medium](https://medium.com/@boranaakash9)
   - :pencil2: [Portfolio](https://datafeedai.com/)
