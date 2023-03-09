@@ -11,7 +11,7 @@
 **khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- :zap: I love math, programming, data science, and books
+- :zap: I love Logical problems, Programming, Devops.
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@boranaakash9) and [ Technical Information](https://datafeedai.com/).
 - Connect with me on:
