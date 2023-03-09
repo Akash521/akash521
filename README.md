@@ -23,10 +23,6 @@
   
 [![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash521&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash521&theme=dracula)
-
-![](https://api.githubtrends.io/user/svg/Akash521/langs?time_range=one_year&include_private=True&theme=classic)
-
 
 ### Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0"> 
